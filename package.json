@@ -1,0 +1,19 @@
+{
+  "name": "pullrefreshload",
+  "version": "1.0.0",
+  "description": "下拉刷新/上拉加载",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyuetongSX/pull-refres-load.git"
+  },
+  "author": "huyuetongSX@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyuetongSX/pull-refres-load/issues"
+  },
+  "homepage": "https://github.com/huyuetongSX/pull-refres-load#readme"
+}
